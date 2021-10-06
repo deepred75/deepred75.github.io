@@ -1,2 +1,2 @@
 # deepred75.github.io
- Al-Quran beserta terjemahan bahasa indonesia
+ Al-Quran beserta terjemahan bahasa indonesia, menggunakan framework Quasar dengan component Vue
