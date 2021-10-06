@@ -7,5 +7,6 @@ Aplikasi web Al-Quran beserta terjemahan bahasa indonesia, menggunakan Framework
 5.  Pengaturan tampilan warna hukum bacaan
 6.  Pilihan recitation audio dari qari mualim, mujjawad & murattal
 7.  Pilihan pengulangan bacaan ayat
+8.  Menyalin ayat/terjemahan atau sekaligus keduanya
 
 https://deepred75.github.io/quran-id/
