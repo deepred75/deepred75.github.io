@@ -1,2 +1,2 @@
 # deepred75.github.io
- Al-Quran
+ Al-Quran beserta terjemahan bahasa indonesia
