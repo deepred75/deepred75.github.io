@@ -3,7 +3,7 @@ Aplikasi web Al-Quran beserta terjemahan bahasa indonesia, menggunakan Framework
 1.  Pencarian nama surah dan kata kunci berdasarkan potongan ayat.
 2.  Pindah ke nomor ayat selanjutnya
 3.  Pindah ke surah selanjutnya
-4.  Keterangan warna tajweed 
+4.  Keterangan warna tajwid 
 5.  Pengaturan tampilan warna hukum bacaan
 6.  Pilihan recitation audio dari qari mualim, mujjawad & murattal
 7.  Pilihan pengulangan bacaan ayat
