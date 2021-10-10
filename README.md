@@ -9,4 +9,4 @@ Aplikasi web Al-Quran beserta terjemahan bahasa indonesia, menggunakan Framework
 7.  Pilihan pengulangan bacaan ayat
 8.  Menyalin ayat/terjemahan atau sekaligus keduanya
 
-Find the deployed project here: https://deepred75.github.io/quran-id/
+Find my deployed project here: https://deepred75.github.io/quran-id/
