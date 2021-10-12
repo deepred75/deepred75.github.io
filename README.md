@@ -13,4 +13,4 @@ Web app Al-Quran beserta terjemahan bahasa indonesia menggunakan Vue dan Quasar 
 9. Pilihan audio recitation dari Qari (muallim, mujawwad dan murattal)
 10. Mode pengulangan bacaan ayat (dari 2x hingga tanpa terbatas)<br>
 
-Find frontend deployed project here : <a href="https://deepred75.github.io/quran-id" target="_blank">Al-Quran Webapp</a>
+Find deployed project here : <a href="https://deepred75.github.io/quran-id" target="_blank">Al-Quran Webapp</a>
