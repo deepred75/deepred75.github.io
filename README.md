@@ -1,12 +1,11 @@
-# deepred75.github.io
-Aplikasi web Al-Quran beserta terjemahan bahasa indonesia, menggunakan Framework Quasar dengan component Vue.JS dengan fitur :
-1.  Pencarian nama surah dan kata kunci berdasarkan potongan ayat.
-2.  Pindah ke nomor ayat selanjutnya
-3.  Pindah ke surah selanjutnya
-4.  Keterangan warna tajwid 
-5.  Pengaturan tampilan warna hukum bacaan
-6.  Pilihan recitation audio dari qari mualim, mujjawad & murattal
-7.  Pilihan pengulangan bacaan ayat
-8.  Menyalin ayat/terjemahan atau sekaligus keduanya
+# STATIC
 
-Find my deployed project here: https://deepred75.github.io/quran-id/
+**This directory is not required, you can delete it if you don't want to use it.**
+
+This directory contains your static files.
+Each file inside this directory is mapped to `/`.
+Thus you'd want to delete this README.md before deploying to production.
+
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
