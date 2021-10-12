@@ -2,8 +2,8 @@
 
 Web app Al-Quran beserta terjemahan bahasa indonesia menggunakan Vue dan Quasar Framework dengan fitur :<br>
 
-1. Pencarian nama surah
-2. Pencarian ayat (arabic teks)
+1. Pencarian nama surah (total 114 surah)
+2. Pencarian ayat (khusus arabic teks)
 3. Proses pencarian ayat akan mencari kecocokan setiap kata pada kata kunci yang diberikan
 4. Pindah ke nomor ayat dalam satu surah
 5. Pindah ke surah lain ketika sedang dalam satu surah
